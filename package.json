@@ -9,7 +9,7 @@
     "dev": "npm run build && webpack serve"
   },
   "keywords": [],
-  "author": "Alexey Simak <aleksim.dev@gmail.com>",
+  "author": "Denni Fe <denis.dev@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.12",
